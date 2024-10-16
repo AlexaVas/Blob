@@ -1,17 +1,8 @@
 import ThreeCanvas from "./experience/ThreeCanvas";
-export default function Canvas({colorOne, colorTwo}){
-
-
-
-
-
-
-
-return (
-  <div className="absolute w-full h-full bg-transparent">
-    <ThreeCanvas colorOne={colorOne} colorTwo={colorTwo} />
-  </div>
-);
-
-
+export default function Canvas({ colorOne="lightblue", colorTwo="green", bg = "black" }) {
+  return (
+    <div style={{ backgroundColor: bg }} className="absolute w-full h-full ">
+      <ThreeCanvas colorOne={colorOne} colorTwo={colorTwo} />
+    </div>
+  );
 }

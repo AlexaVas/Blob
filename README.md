@@ -9,10 +9,10 @@ This is a customizable 3D Blob developed by [Morphio Templates](https://morphio.
 You can start customizing the colors of the 3D Blob by editing the URL:
 
 - Use named colors:  
-  [https://blob-green.vercel.app//?colorOne=lightblue&colorTwo=green](https://blob-green.vercel.app//?colorOne=lightblue&colorTwo=green)
+  [https://blob-green.vercel.app/?colorOne=lightblue&colorTwo=green&background=black](https://blob-green.vercel.app/?colorOne=lightblue&colorTwo=green&background=black)
 
 - Or use RGB values:  
-  [https://blob-green.vercel.app//?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188)](https://blob-green.vercel.app//?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188))
+  [https://blob-green.vercel.app/?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188)&background=black](https://blob-green.vercel.app/?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188)&background=black)
 
 
 
