@@ -2,17 +2,17 @@ This is a customizable 3D Blob developed by [Morphio Templates](https://morphio.
 
 ### Viewing the Project
 
-- Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+- Open [https://blob-green.vercel.app/](https://blob-green.vercel.app/) in your browser to see the result.
 
 ### Customizing the 3D Blob
 
 You can start customizing the colors of the 3D Blob by editing the URL:
 
 - Use named colors:  
-  [http://localhost:3000/?colorOne=lightblue&colorTwo=green](http://localhost:3000/?colorOne=lightblue&colorTwo=green)
+  [https://blob-green.vercel.app//?colorOne=lightblue&colorTwo=green](https://blob-green.vercel.app//?colorOne=lightblue&colorTwo=green)
 
 - Or use RGB values:  
-  [http://localhost:3000/?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188)](http://localhost:3000/?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188))
+  [https://blob-green.vercel.app//?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188)](https://blob-green.vercel.app//?colorOne=rgb(173,216,230)&colorTwo=rgb(173,230,188))
 
 
 
