@@ -2,7 +2,7 @@
 "use client";
 
 import { useFrame } from "@react-three/fiber";
-import { useRef,useEffect, useState } from "react";
+import { useRef,useEffect} from "react";
 
 import Fluid from "./Fluid";
 
